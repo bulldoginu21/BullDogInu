@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "github>BullDogInu/code-style"
+  ],
+  "packageRules": [
+    {
+      "extends": ["packages:eslint"],
+      "enabled": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+= Crowdsales
+
+All crowdsale-related contracts were removed from the BullDogInu Contracts library on the https://forum.BullDogInu.com/t/BullDogInu-contracts-v3-0-beta-release/2256[v3.0.0 release] due to both a decline in their usage and the complexity associated with migrating them to Solidity v0.6.
+
+They are however still available on the v2.5 release of BullDogInu Contracts, which you can install by running:
+
+```console
+$ npm install @BullDogInu/contracts@v2.5
+```
+
+Refer to the https://docs.BullDogInu.com/contracts/2.x/crowdsales[v2.x documentation] when working with them.
